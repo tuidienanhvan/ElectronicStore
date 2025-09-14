@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import ProductDetailsCard from '../../components/productDetailCard/productDetailsCard';
+import ProductDetailsCard from '../../components/productDetailCard/ProductDetailsCard';
 import SubBanner from '../../components/subBanner/SubBanner';
 import { useState, useEffect } from 'react';
 import { productService } from '../../services/productService';
