@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+.sectionBase {
+    width: full;
+    height: full;
+    padding: 8px;
+}
+
+.textprimary {
+    color: #424242;
+}
+
+.textprimary:hover {
+    color: #7f21c7;
+}
+
+.textsecondary {
+    color: #5c1791;
+}
+
+.textthirdary {
+    color:#cdcdcd
+}
+
+.textthirdary:hover {
+    color:#ffffff;
+}
+.textforthary {
+    color: #424242;
+}
+
+
+.bgprimary {
+    background-color: #9538E2;
+}
+
+
+@media screen and ( min-width: 768px) and ( max-width: 1023px ) {
+    .sectionBase {
+        padding: 12px;
+    }
+    
+}
+
+@media screen and (min-width: 1024px ) {
+    .sectionBase {
+        max-width: 1280px;
+        padding: 16px;
+    }
+    
+}

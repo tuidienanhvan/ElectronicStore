@@ -1,0 +1,257 @@
+[
+    {
+        "product_id": "EG1001",
+        "product_title": "iPhone 14 Pro Max",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.HG_ZJg47UCr-yzPyu-MlRwHaE8%26cb%3Diwp2%26pid%3DApi&f=1&ipt=23b34ea63addd13a1acff9674cad4af3c328f1d305ef3739155fdaab4960b380&ipo=images",
+        "category": "Smartphone",
+        "price": 1199,
+        "description": "Advanced iPhone with A16 Bionic chip and ProMotion display.",
+        "Specification": [
+            "6.7-inch Super Retina XDR",
+            "A16 Bionic",
+            "Triple 48MP camera",
+            "iOS 16"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "sold": 236
+    },
+    {
+        "product_id": "EG1002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.LaD7A5odzsPPIP54KGIiPgHaEK%3Fcb%3Diwp2%26pid%3DApi&f=1&ipt=35e034d071ef3adbefe8b8369e9ffefd15c1c3298141a832fe5a037172d1394b&ipo=images",
+        "category": "Smartphone",
+        "price": 1099,
+        "description": "Flagship phone with 200MP camera and Snapdragon 8 Gen 2.",
+        "Specification": [
+            "6.8-inch QHD+",
+            "Snapdragon 8 Gen 2",
+            "200MP quad camera",
+            "Android 13"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "sold": 386
+    },
+    {
+        "product_id": "EG1003",
+        "product_title": "Google Pixel 8 Pro",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.sfAp4uUj8eCFtclYlf4WxwHaEK%26pid%3DApi&f=1&ipt=c5ec8e18f61570c3c7388fc89009ddc48f92c04819179c05145ba148cb97e4f1&ipo=images",
+        "category": "Smartphone",
+        "price": 999,
+        "description": "Google's flagship phone with Tensor G3 chip and advanced AI features.",
+        "Specification": [
+            "6.7-inch LTPO OLED",
+            "Tensor G3",
+            "50MP triple camera",
+            "Android 14"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 1423
+    },
+    {
+        "product_id": "EG1004",
+        "product_title": "MacBook Pro 16-inch M2 Pro",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.cxu-zy0h4fYwfZNU0IuU_QHaE6%26pid%3DApi&f=1&ipt=56b903dfb6ee2e4925fa05c31883ede82efc5cdb1f2a00dfdb4c377bf4c469f9&ipo=images",
+        "category": "Laptop",
+        "price": 2499,
+        "description": "MacBook with M2 Pro chip and Liquid Retina XDR display.",
+        "Specification": [
+            "16.2-inch display",
+            "M2 Pro",
+            "32GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "sold": 800
+    },
+    {
+        "product_id": "EG1005",
+        "product_title": "Dell XPS 13 Plus",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.06gqBuf6K5Rm2b4ypPXd6AHaEK%26cb%3Diwc2%26pid%3DApi&f=1&ipt=6c43eb45bb80bab1023b471642319d9e2832629cccb86b6cdf845e7bd1807bf0&ipo=images",
+        "category": "Laptop",
+        "price": 1499,
+        "description": "Ultrabook with 13th Gen Intel Core processors.",
+        "Specification": [
+            "13.4-inch display",
+            "Intel i7-1360P",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 345
+    },
+    {
+        "product_id": "EG1006",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.HEibuAmSSjqz2htn3KriXQHaEK%26cb%3Diwp2%26pid%3DApi&f=1&ipt=f24dd7b4c897fd9ead6f74b3a5f94402324251a4059c6c5d170170e267ebf9b5&ipo=images",
+        "category": "Laptop",
+        "price": 1399,
+        "description": "Convertible laptop with touch screen and Intel Evo certification.",
+        "Specification": [
+            "13.5-inch OLED",
+            "Intel i7",
+            "16GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "sold": 208
+    },
+    {
+        "product_id": "EG1007",
+        "product_title": "iPad Pro 12.9-inch (M2)",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oSYc5b2VU3Moq-vZ1UzVKwHaD4%26cb%3Diwc2%26pid%3DApi&f=1&ipt=26014d721d54460d27c89386ec08b9fc8ebddd45b44ef418a4f7af3efda15fb2&ipo=images",
+        "category": "Tablet",
+        "price": 1299,
+        "description": "Tablet with M2 chip and Liquid Retina XDR display.",
+        "Specification": [
+            "12.9-inch display",
+            "M2 chip",
+            "128GB",
+            "iPadOS 16"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "sold": 126
+    },
+    {
+        "product_id": "EG1008",
+        "product_title": "Samsung Galaxy Tab S8 Ultra",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.OsaVNRmBa-Kxc28tqOOfsAHaE6%3Fcb%3Diwp2%26pid%3DApi&f=1&ipt=6744067e9ad45375aedf615b35c38bf3bc949890e5aa278adaf36ff5def7f7ee&ipo=images",
+        "category": "Tablet",
+        "price": 999,
+        "description": "Large AMOLED tablet for professionals.",
+        "Specification": [
+            "14.6-inch AMOLED",
+            "Snapdragon 8 Gen 1",
+            "S Pen",
+            "Android 12"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "sold": 504
+    },
+    {
+        "product_id": "EG1009",
+        "product_title": "Microsoft Surface Pro 9",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Xh0qb8SODYukPoMx3QMp_wHaEK%26pid%3DApi&f=1&ipt=97f0b79b61d50215693e6db54b6c680b7c598ae9645dc786275741637660be60&ipo=images",
+        "category": "Tablet",
+        "price": 1099,
+        "description": "2-in-1 tablet and laptop with Windows 11.",
+        "Specification": [
+            "13-inch PixelSense",
+            "Intel i5",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 1305
+    },
+    {
+        "product_id": "EG1010",
+        "product_title": "Apple Watch Series 9",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ixRXG8Zf09_aS4-MsZQGHwHaET%26cb%3Diwc2%26pid%3DApi&f=1&ipt=5bb3c2808e8e5a6838a7707e9b09c6229a9700c94cc52b845cf7a37585a7d66d&ipo=images",
+        "category": "Smartwatch",
+        "price": 499,
+        "description": "Advanced health features and on-device Siri.",
+        "Specification": [
+            "45mm display",
+            "S9 chip",
+            "ECG",
+            "watchOS 10"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "sold": 86
+    },
+    {
+        "product_id": "EG1011",
+        "product_title": "Samsung Galaxy Watch 6",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.nNA7Y-hOSNtvg9f0RGHaWwHaFP%26cb%3Diwc2%26pid%3DApi&f=1&ipt=2fac4c9acce27fc98723b41421f01a56e1062620a0aa860b66442fd355c053df&ipo=images",
+        "category": "Smartwatch",
+        "price": 429,
+        "description": "Rotating bezel with Wear OS by Google.",
+        "Specification": [
+            "1.5-inch AMOLED",
+            "BioActive Sensor",
+            "Wear OS",
+            "Bluetooth & LTE"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 153
+    },
+    {
+        "product_id": "EG1012",
+        "product_title": "Fitbit Sense 2",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.O9-CV0qm5NtC_BXxTACkVgHaFY%26pid%3DApi&f=1&ipt=1dbd4931b0ad6f9c5d9dd84e83448f870307b3f8c6f0459bb7c8fb6113b7e44d&ipo=images",
+        "category": "Smartwatch",
+        "price": 299,
+        "description": "Fitness smartwatch with stress management and sleep tracking.",
+        "Specification": [
+            "EDA scan",
+            "Heart-rate monitor",
+            "GPS",
+            "6-day battery"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 38
+    },
+    {
+        "product_id": "EG1013",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.29UAvA5xhY4eFk5WDe1eRwHaEw%26cb%3Diwp2%26pid%3DApi&f=1&ipt=b8f3cfc40dfbea035015d040c36dd5f1f59fb44f5d71116707be04963ff06f04&ipo=images",
+        "category": "Headphone",
+        "price": 399,
+        "description": "Noise canceling over-ear Headphone.",
+        "Specification": [
+            "30mm drivers",
+            "ANC",
+            "30-hour battery",
+            "Bluetooth 5.2"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "sold": 196
+    },
+    {
+        "product_id": "EG1014",
+        "product_title": "Bose QC Earbuds II",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Dqk3oOgzwy-gj6OjxSqXxgAAAA%3Fpid%3DApi&f=1&ipt=248f32f8bd1b3494f215aed9e05af1c2ef7bfb8798220276c5a9a3c0db82244a&ipo=images",
+        "category": "Headphone",
+        "price": 299,
+        "description": "Wireless earbuds with adaptive noise cancellation.",
+        "Specification": [
+            "CustomTune",
+            "IPX4",
+            "24-hour battery",
+            "Bluetooth 5.3"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "sold": 467
+    },
+    {
+        "product_id": "EG1015",
+        "product_title": "AirPods Pro (2nd Gen)",
+        "product_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WmrDAbmUFGD_R8LbuO5nRQHaEK%26cb%3Diwc2%26pid%3DApi&f=1&ipt=8c773dcfac9c6b8416286d5e46ac04c2acf284e366bef3da43bc6f8c427bad12&ipo=images",
+        "category": "Headphone",
+        "price": 249,
+        "description": "Apple's best in-ear Headphone with H2 chip.",
+        "Specification": [
+            "Active Noise Canceling",
+            "H2 chip",
+            "MagSafe Charging",
+            "iOS integration"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "sold": 427
+    }
+]
